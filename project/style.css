@@ -1,0 +1,30 @@
+.dp {
+	position: relative;
+	top: -145px;
+	left: 20px;
+}
+
+.name {
+	position: relative;
+	top: -60px;
+	left: 230px;
+	color: white;
+	font-size: 40px;
+}
+
+.active{
+	width: 100px;
+	text-align: center;
+}
+
+.ab1{
+	width: 100px;
+	text-align: center;
+}
+
+.container {
+	background-color: white;
+}
+.body{
+	background-color: #DCDCDC;
+}
